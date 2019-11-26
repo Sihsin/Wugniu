@@ -2,9 +2,9 @@
 # encoding: utf-8
 
 schema:
-  schema_id: wugniu_donshian
-  name: 吳語-桐鄉
-  version: "2019.3.2"
+  schema_id: wugniu_donshian-s
+  name: 吴语-桐乡
+  version: "2019.10.14"
   author:
     - 雪心居士˂sihsin@live.com˃
   description: |
@@ -88,8 +88,8 @@ speller:
     
 
 translator:
-  dictionary: wugniu_donshian
-  prism: wugniu_donshian
+  dictionary: wugniu_donshian-s
+  prism: wugniu_donshian-s
   spelling_hints: 5
   comment_format:
     - xform/^(.*)\((.*)\)$/$2✔/
